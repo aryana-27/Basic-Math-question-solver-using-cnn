@@ -14,24 +14,24 @@ This project employs the principles of Convolutional Neural Networks (CNNs) and 
 **Training and Evaluation**: Model training using deep learning frameworks and performance evaluation with common metrics.
 
 
-**Dataset Details - **
+**Dataset Details**
 
 **Source** - kaggle
 **link** - https://www.kaggle.com/datasets/sagyamthapa/handwritten-math-symbols
 **images** - 10073
 
-**Description of dataset - **
+**Description of dataset**
 This dataset contains over 9000 handwritten digits and arithmetic operators.
 Total no of classes: 16
 Digits: 0 1 2 3 4 5 6 7 8 9
 Operators: Plus Minus Multiplication Division Decimal Equals
 
-**Pros:**
+**Pros**
 - Easy to understand:The code is straightforward, making it accessible to beginners.
 - Modular structure:The project is organized into clear sections, enhancing readability and maintainability.
 - Customizability:Users can adapt the code to suit different datasets and adjust model parameters.
 
-** Cons:**
+** Cons**
 - Limited model complexity: The project uses a basic CNN architecture, suitable for simple tasks.
 - Scalability issues:The code may require modifications for large datasets.
 - Basic error handling: It lacks comprehensive error handling.
