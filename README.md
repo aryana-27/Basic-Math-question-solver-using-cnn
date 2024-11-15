@@ -31,7 +31,7 @@ Operators: Plus Minus Multiplication Division Decimal Equals
 - Modular structure:The project is organized into clear sections, enhancing readability and maintainability.
 - Customizability:Users can adapt the code to suit different datasets and adjust model parameters.
 
-** Cons**
+**Cons**
 - Limited model complexity: The project uses a basic CNN architecture, suitable for simple tasks.
 - Scalability issues:The code may require modifications for large datasets.
 - Basic error handling: It lacks comprehensive error handling.
